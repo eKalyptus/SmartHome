@@ -14,7 +14,7 @@ See here for the different parts:
 - [Slave](https://github.com/k0a1adev/SmartHome-Base#installation)
 - [Web Application](https://github.com/k0a1adev/SmartHome-Base#installation)
 
-##External Dependencies
+##Credits
 - [Flag-Icon-CSS](http://flag-icon-css.lip.is/)
 - [jQuery](http://jquery.com)
 - [Bootstrap](http://getbootstrap.com)
