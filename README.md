@@ -13,3 +13,10 @@ See here for the different parts:
 - [Base](https://github.com/k0a1adev/SmartHome-Base#installation)
 - [Slave](https://github.com/k0a1adev/SmartHome-Base#installation)
 - [Web Application](https://github.com/k0a1adev/SmartHome-Base#installation)
+
+##External Dependencies
+- [Flag-Icon-CSS](http://flag-icon-css.lip.is/)
+- [jQuery](http://jquery.com)
+- [Bootstrap](http://getbootstrap.com)
+- [Bootswatch Lumen](http://bootswatch.com/lumen/)
+- [ChartJS](http://www.chartjs.org/)
